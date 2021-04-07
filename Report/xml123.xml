@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="137.794428">
+<testcase classname="Validation the LennoxPros website" name="verify the lennoxPros website with user 1" time="137.794428">
+<system-out><![CDATA[Given User have to lanuch the chrome and hit the URL........................passed
+When User have to enter the username and password...........................passed
+And click the signIn buttn..................................................passed
+Then Go to Home and click Menu button.......................................passed
+And click Select lead buttn.................................................passed
+And click Add Lead button...................................................passed
+And enter First name and Last Name..........................................passed
+Then Enter the phoneNumber and EmailID......................................passed
+And ScrollDown and select Select Scheduling Request Date....................passed
+Then select Lead Appointment Date...........................................passed
+And click SavedLead.........................................................passed
+Then saveing the Status ScreenShot..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
